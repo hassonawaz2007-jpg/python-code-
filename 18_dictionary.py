@@ -1,3 +1,4 @@
+a={} #empty dictionary
 marks= {
     "hassan":  98,
     "musab":   100,
